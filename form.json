@@ -1,0 +1,17 @@
+{
+  "schema": {
+    "bodytext": {
+      "type": "string",
+      "title": "Main color",
+      "format": "color"
+    }
+  },
+  "form": [
+    {
+      "key": "bodytext",
+      "prepend": "Body text",
+      "append": "today",
+      "notitle": true
+    }
+  ]
+}
